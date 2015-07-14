@@ -806,7 +806,7 @@
     "CaveEntrance" : "Possible cave opening",
     "HeatSignature" : "สัญญาณความร้อน",
 
-    "HatchExitBlocked": "Hatch exit is blocked!",
+    "HatchExitBlocked": "ประตูทางออกถูกปิด!",
     "RotateCorridorHint": "Q/E or scroll wheel to rotate",
 
 	"RadiationFixed": "All radiation leaks fixed. Estimated duration of complete dissipation: 3 days.",
